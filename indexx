@@ -36,11 +36,6 @@
       height: auto;
     }
 
-    table {
-      margin: 2em auto;
-      border-collapse: collapse;
-      width: 90%;
-    }
 
     th, td {
       border: 1px solid black;
@@ -95,10 +90,10 @@
 
   <p class="distribution">
    Each team member contributed significantly to the development of the project, participating in both the programming and the overall design of the game.
-Luana was in charge of the enemy movement and helped manage the flow of the introduction screens. She also created a diagram to represent the general structure of the game.
-Aidan developed the complete mechanics of the final boss, including its movements and shooting. He also worked on the implementation of enemy bullets and sound effects.
-Montserrat was responsible for implementing the player character, including its controls and functionality. Additionally, he managed the screen transitions and developed the user interface (UI).
-Finally, the collection of images and the general documentation of the project were done collaboratively with all team members.
+    Luana was in charge of the enemy movement and helped manage the flow of the introduction screens. She also created a diagram to represent the general structure of the game.
+    Aidan developed the complete mechanics of the final boss, including its movements and shooting. He also worked on the implementation of enemy bullets and sound effects.
+    Montserrat was responsible for implementing the player character, including its controls and functionality. Additionally, he managed the screen transitions and developed the user interface (UI).
+    Finally, the collection of images and the general documentation of the project were done collaboratively with all team members.
   </p>
 
 
