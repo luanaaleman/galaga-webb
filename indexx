@@ -36,17 +36,6 @@
       height: auto;
     }
 
-
-    th, td {
-      border: 1px solid black;
-      padding: 0.8em;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f0f0f0;
-    }
-
     iframe {
       margin-top: 2em;
       width: 560px;
@@ -66,6 +55,14 @@
 
     a.button:hover {
       background-color: #cc0022;
+    }
+
+    div.team-contributions {
+      max-width: 800px;
+      margin: 2em auto;
+      text-align: left;
+      font-size: 1em;
+      line-height: 1.6;
     }
   </style>
 </head>
@@ -88,20 +85,20 @@
   <!-- Imagen del juego -->
   <img src="Galaga90.png" alt="Captura del juego Galaga 90'">
 
-  <p class="distribution">
-   Each team member contributed significantly to the development of the project, participating in both the programming and the overall design of the game.
-    Luana was in charge of the enemy movement and helped manage the flow of the introduction screens. She also created a diagram to represent the general structure of the game.
-    Aidan developed the complete mechanics of the final boss, including its movements and shooting. He also worked on the implementation of enemy bullets and sound effects.
-    Montserrat was responsible for implementing the player character, including its controls and functionality. Additionally, he managed the screen transitions and developed the user interface (UI).
-    Finally, the collection of images and the general documentation of the project were done collaboratively with all team members.
-  </p>
-
+  <!-- Texto reemplazando la tabla -->
+  <div class="team-contributions">
+    <p>Each team member contributed significantly to the development of the project, participating in both the programming and the overall design of the game.</p>
+    <p><strong>Luana</strong> was in charge of the enemy movement and helped manage the flow of the introduction screens. She also created a diagram to represent the general structure of the game.</p>
+    <p><strong>Aidan</strong> developed the complete mechanics of the final boss, including its movements and shooting. He also worked on the implementation of enemy bullets and sound effects.</p>
+    <p><strong>Montserrat</strong> was responsible for implementing the player character, including its controls and functionality. Additionally, he managed the screen transitions and developed the user interface (UI).</p>
+    <p>Finally, the collection of images and the general documentation of the project were done collaboratively with all team members.</p>
+  </div>
 
   <!-- Miniatura del video -->
-<a href="https://www.youtube.com/watch?v=au7Qc4BNNi0" target="_blank">
-  <img src="https://img.youtube.com/vi/au7Qc4BNNi0/hqdefault.jpg" alt="Ver video en YouTube" style="max-width:100%; height:auto; margin-top:2em;">
-</a>
-<p class="video">
+  <a href="https://www.youtube.com/watch?v=au7Qc4BNNi0" target="_blank">
+    <img src="https://img.youtube.com/vi/au7Qc4BNNi0/hqdefault.jpg" alt="Ver video en YouTube" style="max-width:100%; height:auto; margin-top:2em;">
+  </a>
+  <p class="video">
     Click on the image to watch the video
   </p>
 
