@@ -93,25 +93,14 @@
   <!-- Imagen del juego -->
   <img src="Galaga90.png" alt="Captura del juego Galaga 90'">
 
-  <!-- Tabla de contribuciones -->
-  <table>
-    <tr>
-      <th>Team Member</th>
-      <th>Task</th>
-      <th>Time (hours)</th>
-    </tr>
-    <tr><td>Luana Alemán Armelin</td><td>Home Screen</td><td>4h</td></tr>
-    <tr><td>Luana Alemán Armelin</td><td>Project Structure</td><td>6h</td></tr>
-    <tr><td>Luana Alemán Armelin</td><td>One Enemy</td><td>3h</td></tr>
-    <tr><td>Aidan Albero García</td><td>Sounds</td><td>1h</td></tr>
-    <tr><td>Aidan Albero García</td><td>Enemy bullet</td><td>2h</td></tr>
-    <tr><td>Aidan Albero García</td><td>Game over</td><td>3h</td></tr>
-    <tr><td>Aidan Albero García</td><td>Boss</td><td>5h</td></tr>
-    <tr><td>Aidan Albero García</td><td>Invincibility</td><td>1h</td></tr>
-    <tr><td>Montserrat Medina Chavez</td><td>Win Screen/Credits Screen</td><td>2h</td></tr>
-    <tr><td>Montserrat Medina Chavez</td><td>Two Enemies</td><td>6h</td></tr>
-    <tr><td>Montserrat Medina Chavez</td><td>Level 2</td><td>1h</td></tr>
-  </table>
+  <p class="distribution">
+   Each team member contributed significantly to the development of the project, participating in both the programming and the overall design of the game.
+Luana was in charge of the enemy movement and helped manage the flow of the introduction screens. She also created a diagram to represent the general structure of the game.
+Aidan developed the complete mechanics of the final boss, including its movements and shooting. He also worked on the implementation of enemy bullets and sound effects.
+Montserrat was responsible for implementing the player character, including its controls and functionality. Additionally, he managed the screen transitions and developed the user interface (UI).
+Finally, the collection of images and the general documentation of the project were done collaboratively with all team members.
+  </p>
+
 
   <!-- Miniatura del video -->
 <a href="https://www.youtube.com/watch?v=au7Qc4BNNi0" target="_blank">
